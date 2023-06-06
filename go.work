@@ -5,4 +5,5 @@ use (
 	./creational/builder
 	./creational/factory
 	./creational/object-pool
+	./creational/prototype
 )
