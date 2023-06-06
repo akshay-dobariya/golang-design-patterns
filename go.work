@@ -6,4 +6,5 @@ use (
 	./creational/factory
 	./creational/object-pool
 	./creational/prototype
+	./creational/singleton
 )
