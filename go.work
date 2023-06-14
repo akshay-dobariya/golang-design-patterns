@@ -4,6 +4,7 @@ use (
 	./behavioural/chain-of-responsibility
 	./behavioural/command
 	./behavioural/iterator
+	./behavioural/mediator
 	./creational/abstract-factory
 	./creational/builder
 	./creational/factory
