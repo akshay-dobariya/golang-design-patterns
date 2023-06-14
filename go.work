@@ -3,6 +3,7 @@ go 1.18
 use (
 	./behavioural/chain-of-responsibility
 	./behavioural/command
+	./behavioural/iterator
 	./creational/abstract-factory
 	./creational/builder
 	./creational/factory
